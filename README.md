@@ -1,5 +1,3 @@
-
-
 ### 📕 목차
 - [간단 소개글](#간단-소개글)
 - [연락처](#연락처)
@@ -12,20 +10,16 @@
   - [러닝하트](#러닝하트)
   - [Fan Sign](#fan-sign)
 
-</b>
-
 ## 간단 소개글
 안녕하세요, 모바일 앱 개발자 조용제 입니다.
 > 새로운 기술을 학습해 구현하고 운영해 나아가는 것에 대한 관심이 많습니다.<br/>
 > 유지보수를 위한 쉬운 코드와 아키텍처를 지향합니다.<br/>
 > 프론트엔드, 디자이너, 기획자, 서버개발자, 고객관리팀 등과의 소통 및 협업 경험이 있습니다.
 
-<b>
 
 ## 연락처
-[![Gmail Badge](https://img.shields.io/badge/yongje812@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yongje812@gmail.com)](mailto:yongje812@gmail.com)<br/>
-[![Notion Badge](https://img.shields.io/badge/-Notion-c14438?style=flat-square&logo=Notion&logoColor=black&color=white)](https://glen-galley-d8f.notion.site/9020c14e8128469096a0041f59e8b836?pvs=4)
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yongje812@gmail.com)
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=black&color=white)](https://glen-galley-d8f.notion.site/9020c14e8128469096a0041f59e8b836?pvs=4)
 
 ## 경력
 |회사명|기간|
@@ -55,7 +49,7 @@
 
 ## 프로젝트
 ### 이고모야
-[![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/812jay/egomoya)<br/>
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/812jay/egomoya)<br/>
 셀럽들의 아이템 정보와 궁금하고 따라하고 싶은 상품을 편하게 질문할 수 있는 커뮤니티<br/>
 >팀 프로젝트<br/>
 >개발 기간: 2024.03 - 진행중<br/>
@@ -70,8 +64,10 @@
 
 ---
 ### 아임파인
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/kr/app/%EC%95%84%EC%9E%84%ED%8C%8C%EC%9D%B8-im-fine/id1573100943)
-[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=io.lokks.careease&pcampaignid=web_share)<br/>
+<!-- [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/kr/app/%EC%95%84%EC%9E%84%ED%8C%8C%EC%9D%B8-im-fine/id1573100943)
+[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=io.lokks.careease&pcampaignid=web_share)<br/> -->
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/kr/app/%EC%95%84%EC%9E%84%ED%8C%8C%EC%9D%B8-im-fine/id1573100943)
+[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=io.lokks.careease&pcampaignid=web_share)<br/>
 병원 예약 하루 플랜을 관리하는 헬스케어 앱<br/>
 >케어스퀘어<br/>
 >개발 기간: 2022.09 - 2023.12(1년 3개월)<br/>
