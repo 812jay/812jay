@@ -4,6 +4,7 @@
 - [경력](#경력)
 - [언어 및 사용 도구](#언어-및-사용-도구)
 - [프로젝트](#프로젝트)
+  - [Pomodoro Daily](#pomodoro-daily)
   - [이고모야](#이고모야)
   - [아임파인](#아임파인)
   - [니트](#니트)
@@ -48,6 +49,20 @@
 <br>
 
 ## 프로젝트
+
+### Pomodoro Daily
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/kr/app/pomodoro-daily/id6743765619)<br/>
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/812jay/pomo_daily)<br/>
+생산성과 집중력 향상을 위한 심플하고 직관적인 포모도로 타이머 앱.<br/>
+>개인 프로젝트<br/>
+>개발 기간: 2025.03 - 2025.03<br/>
+>
+>기술 스택:  
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2?style=flat-square&logo=dart&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-00897B?style=flat-square&logoColor=white)
+
+---
 ### 이고모야
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/812jay/egomoya)<br/>
 셀럽들의 아이템 정보와 궁금하고 따라하고 싶은 상품을 편하게 질문할 수 있는 커뮤니티<br/>
